@@ -1,0 +1,7 @@
+{
+  "name": "NavigationMaps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
